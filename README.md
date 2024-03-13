@@ -27,9 +27,10 @@ Seu projeto deve ser mais complexo do que a maioria dos demonstrados na aula (mu
 ## :video_game: Explicando o Jogo
 <p> FutExatas trata-se de um jogo de cálculo com as operações básicas da matemática: soma, subtração, multiplicação e divisão, onde é gerado números aleatórios e o usuário deve responder corretamente as perguntas.</p>
 
-<img src="/assets/scratch_explicacao.png" alt="print centauro explicando o jogo" width="340">
+<img src="/assets/scratch_explicacao.png" alt="print centauro explicando o jogo" width="340" align="center">
 <br>
 <p>Após responder, o menino irá em direção a bola para chutar ao gol, a bola vai a caminho do gol e o goleiro pode defender ou não, a depender se a resposta está certa ou errada.</p>
-<img src="/assets/scracth_comemorando.png" alt="resposta certa" width="340">
-
+<img src="/assets/scracth_comemorando.png" alt="resposta certa" width="340" align="center">
+<br>
+Quer me ajudar a melhorar o código? seu feedback é muito bem vindo!!
 
